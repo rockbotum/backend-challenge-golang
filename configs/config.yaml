@@ -1,0 +1,17 @@
+binance:
+  baseUrl: https://api.binance.com
+  socks5Proxy: ""
+  maxMemorySize: 32MB
+  timeout:
+    connection: 5s
+    read: 10s
+    write: 10s
+    total: 30s
+  orderBook:
+    depth: 100
+    infoEndpointTimeout: 15s
+    dryRun: false
+    concurrency: 8
+    maxRetries: 3
+    retryBackoff: 500ms
+    maxRuntime: 5m
