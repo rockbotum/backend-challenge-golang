@@ -1,4 +1,4 @@
-### Name: <Egor Vybornov>
+### Name: Egor Vybornov
 ### Email: <kallionsoft@gmail.com>
 ### CV: <@rockbotum>
 
